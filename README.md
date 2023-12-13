@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandros-passas-511624264/](https://www.linkedin.com/in/alexandros-passas-511624264/)
 
-- ⚡ Fun fact **I think i`m**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
