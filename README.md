@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexis-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="alexis-cyber" /> </p>
 
-- 🔭 I’m currently working on **a clothing site i made myself**
+- 🔭 I’m currently working on Vibrand Agency
 
 - 🌱 I’m currently learning **Redux, vite**
 
